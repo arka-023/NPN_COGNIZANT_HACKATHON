@@ -1,13 +1,18 @@
 # NPN_COGNIZANT_HACKATHON
 A review sentiment analyzer solution for hotel owners.
-├── src/
-│   ├── main.py
-│   └── utils.py
+<br>
+NPN_COGNIZANT_HACKATHON<br>
+├── src<br>
+│ ├── main.py<br>
+│ └── utils.py<br>
 │
-├── app/
-│   ├── __init__.py
-│   └── routes.py
+├── app<br>
+│ ├── init.py<br>
+│ └── routes.py<br>
 │
-└── analyze/
-    ├── data_cleaner.py
-    └── report_generator.py
+└── analyze<br>
+├── data_cleaner.py<br>
+└── report_generator.py<br>
+
+
+
