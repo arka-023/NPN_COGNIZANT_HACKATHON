@@ -14,11 +14,11 @@ NPN_COGNIZANT_HACKATHON<br>
 │ ├── preprocessor.py -- Precprocessor<br>
 │ ├── requirements.txt<br>
 │ └── sentiment_pipeline.pkl -- The full pipline<br>
-|
+|<br>
 ├── **app**<br>
 │ ├── init.py<br>
 │ └── routes.py<br>
-│
+│<br>
 ├── **analyze**<br>
 ├── data_cleaner.py<br>
 └── report_generator.py<br>
