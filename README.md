@@ -2,7 +2,7 @@
 A review sentiment analyzer solution for hotel owners.
 <br>
 NPN_COGNIZANT_HACKATHON<br>
-├── **src**<br>
+├── **src** -- Prediction endpoint<br>
 │ ├── nltk_data/ -- Contains the nltk downloads<br>
 │ ├── .gitignore<br>
 │ ├── Contractions.py -- The file containing the mapping of contractions<br>
@@ -15,7 +15,7 @@ NPN_COGNIZANT_HACKATHON<br>
 │ ├── requirements.txt<br>
 │ └── sentiment_pipeline.pkl -- The full pipline<br>
 |<br>
-├── **app**<br>
+├── **NPN_COG_APP** -- streamlit app<br>
 │ ├── init.py<br>
 │ └── routes.py<br>
 │<br>
