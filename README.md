@@ -24,10 +24,7 @@ NPN_COGNIZANT_HACKATHON <br>
 │ ├── database.py -- database insert, fetch code<br>
 │ ├── nltk.txt -- nltk downloads required for app<br>
 │ └── requirements.txt<br>
-│<br>
-├── **analyze**<br>
-├── data_cleaner.py<br>
-└── report_generator.py<br>
+
 
 
 
