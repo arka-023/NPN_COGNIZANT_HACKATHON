@@ -24,6 +24,10 @@ NPN_COGNIZANT_HACKATHON <br>
 │ ├── database.py -- database insert, fetch code<br>
 │ ├── nltk.txt -- nltk downloads required for app<br>
 │ └── requirements.txt<br>
+|<br>
+├── **others**   -- streamlit app<br>
+│ ├── data_cleaning_ver1.ipynb -- an eda files<br>
+│ ├── new_data.csv -- data used for training <br>
 
 
 
